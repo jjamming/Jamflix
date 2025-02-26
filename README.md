@@ -17,7 +17,7 @@
 
 ### **1. 프로젝트 클론**
 ```bash
-git clone https://github.com/jjamming/movie.git
+git clone https://github.com/jjamming/Jamflix.git
 cd movie
 ```
 
